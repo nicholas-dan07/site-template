@@ -1,0 +1,22 @@
+{
+  "name": "site-template",
+  "version": "1.0.0",
+  "description": "criação de um site usando gulp, git hub, mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-dan07/My_project.git"
+  },
+  "author": "Nicholas Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholas-dan07/My_project/issues"
+  },
+  "homepage": "https://github.com/nicholas-dan07/My_project#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
